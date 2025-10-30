@@ -2,8 +2,7 @@
 
 This is a simple, single-page landing site about the joy of baking, created as my first project for the SheCodes bootcamp. The page is a personal tribute to baking memories and includes an interactive element to reveal a favorite recipe.
 
-**[View Live Demo]** 👈 (https://velvety-haupia-9e7f3d.netlify.app)
-
+**[View Live Demo](https://velvety-haupia-9e7f3d.netlify.app)** 👈
 ---
 
 ### Key Features
